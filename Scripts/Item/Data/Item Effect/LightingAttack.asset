@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d73f0289815803b45baa10f75f599a49, type: 3}
+  m_Name: LightingAttack
+  m_EditorClassIdentifier: 
+  lightingPrefab: {fileID: 570333043816386456, guid: f575acd9fd0dd2f41875006f80a3dbf7, type: 3}
